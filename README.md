@@ -16,6 +16,7 @@ To develop a python control code to move the mobilerobot along the predefined pa
 <br/>
 
 ## Program
+```
 from robomaster import robot
 import time
 from robomaster import camera
