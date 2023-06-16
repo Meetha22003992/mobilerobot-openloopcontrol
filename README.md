@@ -66,28 +66,13 @@ if _name_ == '_main_':
 
 ![robo](./img/robomaster.png)
 
-<br/>
-<br/>
-<br/>
-<br/>
-
 ## MobileRobot Movement Video:
 
 Youtube Link:
-
 https://youtu.be/AfWMcAk0HtY
-
-<br/>
-<br/>
-<br/>
-<br/>
 
 ## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
-
-
-<br/>
-<br/>
 ```
 Mobile Robotics Laboratory
 Department of Artificial Intelligence and Data Science/ Machine Learning
