@@ -8,25 +8,11 @@ To develop a python control code to move the mobilerobot along the predefined pa
 2. Python 3.7
 
 ## Procedure
-
-Step1:
-
-<br/>
-
-Step2:
-
-<br/>
-
-Step3:
-
-<br/>
-
-Step4:
-
-<br/>
-
-Step5:
-
+1. Use robomaster import robot.
+2. Choose x,y,z for the axis movement distance(meters)
+3. Use ep_chassis.move to move straight.
+4. Give time.sleep() for a break.
+5. Give ep_chassis.drive_speed to have a circular movement.
 <br/>
 
 ## Program
